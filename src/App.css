@@ -1,3 +1,6 @@
-.banner-content {
-  margin-top: 100px; /* 10% of the viewport height */
+.form-control {
+max-width: "40vh"
+}
+body {
+  background-color:  #f0f8ff;
 }

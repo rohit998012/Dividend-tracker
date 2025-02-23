@@ -20,23 +20,24 @@ export default function DividendTracker() {
       <div className="container-fluid p-4">
         <div className="row mt-4">
           {/* Left Section - Search & Table */}
-          <div className="col-12 col-md-8 mb-4">
+          <div>
             <div className="mb-3">
               <div className="input-group">
-                <input type="text" className="form-control" placeholder="Search..." />
+                <input type="text" className="form-control" placeholder="Search..." style={{ maxWidth: "40vh" }} />
                 <span className="input-group-text">
                   <i className="bi bi-search"></i>
                 </span>
               </div>
             </div>
             <div className="table-responsive">
-              <table className="table table-striped table-bordered">
-                <thead className="table-dark">
+              <table className="table table-bordered rounded" style = {{ borderRadius: "10px"}}>
+              <thead className="table-primary">
+
                   <tr>
                     <th>Name</th>
                     <th>Sector</th>
+                    <th>Market Cap</th>
                     <th>1 Year Return</th>
-                    <th>Market cap</th>
                   </tr>
                 </thead>
                 <tbody>
