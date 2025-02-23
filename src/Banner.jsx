@@ -1,13 +1,11 @@
 export default function Banner() {
     return (
-        
-      <div className="bg-light px-5 py-4 rounded shadow-sm"  style={{marginTop:"12vh"}}>
-        <div className="d-flex justify-content-between align-items-center">
-          {/* Main Heading */}
-          <h3 className="fw-bold mb-0 flex-grow-1">India’s One & Only Dividend Tracker</h3>
-  
-          {/* Bullet Points Box */}
-          <div className="p-3 bg-white rounded shadow-sm w-50">
+      <div className="bg-light px-4 py-4 rounded shadow-sm w-100" style={{ marginTop: "12vh" }}>
+        <div className="d-flex flex-column flex-md-row justify-content-between align-items-center gap-4">
+          <h3 className="fw-bold text-center text-md-start mb-4 mb-md-0 me-md-4">
+            India’s One & Only Dividend Tracker
+          </h3>
+          <div className="p-3 bg-white rounded shadow-sm w-100 w-md-50">
             <ul className="list-unstyled mb-0">
               <li className="mb-3 d-flex align-items-center">
                 ✅ <span className="ms-2">Analyze stock dividends</span>
@@ -22,7 +20,6 @@ export default function Banner() {
           </div>
         </div>
       </div>
-      
     );
   }
   
