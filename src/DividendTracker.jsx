@@ -1,66 +1,74 @@
-import React from "react";
+import { useState, useEffect } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import LoginHeader from "./LoginHeader";
 import Banner from "./Banner";
 import "./App.css";
-
-const stocks = [
-  { name: "Zomato", sector: "Consumer Services", return: "5%", marketCap : "Large Cap" },
-  { name: "Tata Motors", sector: "Automobile", return: "2%", marketCap : "Mid Cap" },
-  { name: "MRF", sector: "Tyres & Tubes", return: "4.4%", marketCap : "Large Cap" },
-  { name: "Infibeam Avenues", sector: "Information Technology", return: "1.25%", marketCap : "Small cap" },
-];
-
+import LoginModal from "./LoginModal";
+import { auth, signOut } from "./firebase";
+import StockTable from "./StockTable.jsx";
+import { ToastContainer} from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import { toast} from "react-toastify";
 export default function DividendTracker() {
+  const [stocks, setStocks] = useState([]);
+  const [loading, setLoading] = useState(true); // Track loading state
+  const [showModal, setShowModal] = useState(false);
+  const [user, setUser] = useState(null);
+
+  // Listen for auth state changes
+  useEffect(() => {
+    const unsubscribe = auth.onAuthStateChanged((currentUser) => {
+      setUser(currentUser); // Update state when user logs in or out
+    });
+    return () => unsubscribe(); // Cleanup on unmount
+  }, []);
+  useEffect(() => {
+    fetch("http://localhost:5000/stocks") // Fetch from backend
+      .then((response) => response.json())
+      .then((data) => {
+        console.log("Fetched data:", data);
+        setStocks(data);
+        setLoading(false);
+      })
+      .catch((error) => {
+        console.error("Error loading stock data:", error);
+        setLoading(false);
+      });
+  }, []);
+  const handleLogout = async () => {
+    try {
+      await signOut(auth);
+      setUser(null); // <-- Clear user state
+      toast.success("Logged out successfully!");
+    } catch (err) {
+      toast.error("Logout failed!", err);
+    }
+  };
   return (
     <>
-      <LoginHeader />
+     <ToastContainer />
+          <LoginHeader user={user} onLoginClick={() => setShowModal(true)} onLogoutClick={handleLogout} />
+          <LoginModal showModal={showModal} onClose={() => setShowModal(false)} />
       <Banner />
+   
       <div className="container-fluid p-4">
-        <div className="row mt-4">
+        <div className="row mt-1">
           {/* Left Section - Search & Table */}
-          <div>
-            <div className="mb-3">
-              <div className="input-group">
-                <input type="text" className="form-control" placeholder="Search..." style={{ maxWidth: "40vh" }} />
-                <span className="input-group-text">
-                  <i className="bi bi-search"></i>
-                </span>
-              </div>
-            </div>
+         
+            
             <div className="table-responsive">
-              <table className="table table-bordered rounded" style = {{ borderRadius: "10px"}}>
-              <thead className="table-primary">
-
-                  <tr>
-                    <th>Name</th>
-                    <th>Sector</th>
-                    <th>Market Cap</th>
-                    <th>1 Year Return</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {stocks.map((stock, index) => (
-                    <tr key={index}>
-                      <td>{stock.name}</td>
-                      <td>{stock.sector}</td>
-                      <td>{stock.marketCap}</td>
-                      <td>{stock.return}</td>
-
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
+              {loading ? (
+                <p>Loading...</p> // Show while waiting for data
+              ) : stocks.length === 0 ? (
+                <p>No stock data available.</p> // Handle empty data case
+              ) : (
+               <StockTable stocks = {stocks}/>
+              )}
             </div>
           </div>
-        </div>
+        
       </div>
     </>
   );
 }
-
-// LoginHeader Component
-
-// Banner Component
-

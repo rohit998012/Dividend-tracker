@@ -4,3 +4,35 @@ max-width: "40vh"
 body {
   background-color:  #f0f8ff;
 }
+.input-group-text {
+  margin-left: 0.75rem;
+ 
+}
+.form-select w-25 {
+ max-width: 10%;
+}
+.project-logo {
+  height: 40px; /* Keeps the height consistent */
+  width: 80px; /* Auto scales the width proportionally */
+   /* Ensures the logo stays clean and sharp */
+}
+
+/* Smaller screens adjustment */
+@media (max-width: 576px) {
+  .project-logo {
+    height: 30px; /* Shrinks a bit on mobile */
+  }
+
+  .fw-bold {
+    font-size: 0.8rem;
+  }
+}
+
+/* Table container styling */
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+  margin-top: 1rem;
+}
+
+/* Stock table styling */

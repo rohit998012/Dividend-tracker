@@ -3,7 +3,7 @@ export default function Banner() {
       <div className="bg-light px-4 py-4 rounded shadow-sm w-100" style={{ marginTop: "12vh" }}>
         <div className="d-flex flex-column flex-md-row justify-content-between align-items-center gap-4">
           <h3 className="fw-bold text-center text-md-start mb-4 mb-md-0 me-md-4">
-            India’s One & Only Dividend Tracker
+            Nifty 100 Dividend Tracker
           </h3>
           <div className="p-3 bg-white rounded shadow-sm w-100 w-md-50">
             <ul className="list-unstyled mb-0">

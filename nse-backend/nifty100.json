@@ -1,0 +1,610 @@
+[
+  {
+    "symbol": "NIFTY 50",
+    "marketCapCategory": "Small Cap"
+  },
+  {
+    "symbol": "BEL",
+    "marketCapCategory": "Large Cap",
+    "sector": "Aerospace & Defense",
+    "companyName": "Bharat Electronics Limited"
+  },
+  {
+    "symbol": "SBIN",
+    "marketCapCategory": "Large Cap",
+    "sector": "Public Sector Bank",
+    "companyName": "State Bank of India"
+  },
+  {
+    "symbol": "CIPLA",
+    "marketCapCategory": "Large Cap",
+    "sector": "Pharmaceuticals",
+    "companyName": "Cipla Limited"
+  },
+  {
+    "symbol": "ICICIBANK",
+    "marketCapCategory": "Large Cap",
+    "sector": "Private Sector Bank",
+    "companyName": "ICICI Bank Limited"
+  },
+  {
+    "symbol": "POWERGRID",
+    "marketCapCategory": "Large Cap",
+    "sector": "Power - Transmission",
+    "companyName": "Power Grid Corporation of India Limited"
+  },
+  {
+    "symbol": "ONGC",
+    "marketCapCategory": "Large Cap",
+    "sector": "Oil Exploration & Production",
+    "companyName": "Oil & Natural Gas Corporation Limited"
+  },
+  {
+    "symbol": "TATASTEEL",
+    "marketCapCategory": "Large Cap",
+    "sector": "Iron & Steel",
+    "companyName": "Tata Steel Limited"
+  },
+  {
+    "symbol": "NTPC",
+    "marketCapCategory": "Large Cap",
+    "sector": "Power Generation",
+    "companyName": "NTPC Limited"
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "marketCapCategory": "Large Cap",
+    "sector": "Pharmaceuticals",
+    "companyName": "Sun Pharmaceutical Industries Limited"
+  },
+  {
+    "symbol": "TRENT",
+    "marketCapCategory": "Large Cap",
+    "sector": "Speciality Retail",
+    "companyName": "Trent Limited"
+  },
+  {
+    "symbol": "DRREDDY",
+    "marketCapCategory": "Large Cap",
+    "sector": "Pharmaceuticals",
+    "companyName": "Dr. Reddy's Laboratories Limited"
+  },
+  {
+    "symbol": "TCS",
+    "marketCapCategory": "Large Cap",
+    "sector": "Computers - Software & Consulting",
+    "companyName": "Tata Consultancy Services Limited"
+  },
+  {
+    "symbol": "TECHM",
+    "marketCapCategory": "Large Cap",
+    "sector": "Computers - Software & Consulting",
+    "companyName": "Tech Mahindra Limited"
+  },
+  {
+    "symbol": "TATACONSUM",
+    "marketCapCategory": "Large Cap",
+    "sector": "Tea & Coffee",
+    "companyName": "TATA CONSUMER PRODUCTS LIMITED"
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "marketCapCategory": "Large Cap",
+    "sector": "Private Sector Bank",
+    "companyName": "Kotak Mahindra Bank Limited"
+  },
+  {
+    "symbol": "AXISBANK",
+    "marketCapCategory": "Large Cap",
+    "sector": "Private Sector Bank",
+    "companyName": "Axis Bank Limited"
+  },
+  {
+    "symbol": "LT",
+    "marketCapCategory": "Large Cap",
+    "sector": "Civil Construction",
+    "companyName": "Larsen & Toubro Limited"
+  },
+  {
+    "symbol": "EICHERMOT",
+    "marketCapCategory": "Large Cap",
+    "sector": "2/3 Wheelers",
+    "companyName": "Eicher Motors Limited"
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "marketCapCategory": "Large Cap",
+    "sector": "2/3 Wheelers",
+    "companyName": "Bajaj Auto Limited"
+  },
+  {
+    "symbol": "ITC",
+    "marketCapCategory": "Large Cap",
+    "sector": "Diversified FMCG",
+    "companyName": "ITC Limited"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "marketCapCategory": "Large Cap",
+    "sector": "Packaged Foods",
+    "companyName": "Nestle India Limited"
+  },
+  {
+    "symbol": "M&M",
+    "marketCapCategory": "Large Cap",
+    "sector": "Passenger Cars & Utility Vehicles",
+    "companyName": "Mahindra & Mahindra Limited"
+  },
+  {
+    "symbol": "HDFCBANK",
+    "marketCapCategory": "Large Cap",
+    "sector": "Private Sector Bank",
+    "companyName": "HDFC Bank Limited"
+  },
+  {
+    "symbol": "TITAN",
+    "marketCapCategory": "Large Cap",
+    "sector": "Gems Jewellery And Watches",
+    "companyName": "Titan Company Limited"
+  },
+  {
+    "symbol": "COALINDIA",
+    "marketCapCategory": "Large Cap",
+    "sector": "Coal",
+    "companyName": "Coal India Limited"
+  },
+  {
+    "symbol": "HCLTECH",
+    "marketCapCategory": "Large Cap",
+    "sector": "Computers - Software & Consulting",
+    "companyName": "HCL Technologies Limited"
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "marketCapCategory": "Large Cap",
+    "sector": "Cement & Cement Products",
+    "companyName": "UltraTech Cement Limited"
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "marketCapCategory": "Large Cap",
+    "sector": "Telecom - Cellular & Fixed line services",
+    "companyName": "Bharti Airtel Limited"
+  },
+  {
+    "symbol": "BAJAJFINSV",
+    "marketCapCategory": "Large Cap",
+    "sector": "Holding Company",
+    "companyName": "Bajaj Finserv Limited"
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "marketCapCategory": "Large Cap",
+    "sector": "Diversified FMCG",
+    "companyName": "Hindustan Unilever Limited"
+  },
+  {
+    "symbol": "INFY",
+    "marketCapCategory": "Large Cap",
+    "sector": "Computers - Software & Consulting",
+    "companyName": "Infosys Limited"
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "marketCapCategory": "Large Cap",
+    "sector": "Hospital",
+    "companyName": "Apollo Hospitals Enterprise Limited"
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "marketCapCategory": "Large Cap",
+    "sector": "Non Banking Financial Company (NBFC)",
+    "companyName": "Bajaj Finance Limited"
+  },
+  {
+    "symbol": "RELIANCE",
+    "marketCapCategory": "Large Cap",
+    "sector": "Refineries & Marketing",
+    "companyName": "Reliance Industries Limited"
+  },
+  {
+    "symbol": "ADANIENT",
+    "marketCapCategory": "Large Cap",
+    "sector": "Trading - Minerals",
+    "companyName": "Adani Enterprises Limited"
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "marketCapCategory": "Large Cap",
+    "sector": "Port & Port services",
+    "companyName": "Adani Ports and Special Economic Zone Limited"
+  },
+  {
+    "symbol": "BPCL",
+    "marketCapCategory": "Large Cap",
+    "sector": "Refineries & Marketing",
+    "companyName": "Bharat Petroleum Corporation Limited"
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "marketCapCategory": "Large Cap",
+    "sector": "Iron & Steel",
+    "companyName": "JSW Steel Limited"
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "marketCapCategory": "Large Cap",
+    "sector": "Paints",
+    "companyName": "Asian Paints Limited"
+  },
+  {
+    "symbol": "MARUTI",
+    "marketCapCategory": "Large Cap",
+    "sector": "Passenger Cars & Utility Vehicles",
+    "companyName": "Maruti Suzuki India Limited"
+  },
+  {
+    "symbol": "GRASIM",
+    "marketCapCategory": "Large Cap",
+    "sector": "Cement & Cement Products",
+    "companyName": "Grasim Industries Limited"
+  },
+  {
+    "symbol": "BRITANNIA",
+    "marketCapCategory": "Large Cap",
+    "sector": "Packaged Foods",
+    "companyName": "Britannia Industries Limited"
+  },
+  {
+    "symbol": "SBILIFE",
+    "marketCapCategory": "Large Cap",
+    "sector": "Life Insurance",
+    "companyName": "SBI Life Insurance Company Limited"
+  },
+  {
+    "symbol": "WIPRO",
+    "marketCapCategory": "Large Cap",
+    "sector": "Computers - Software & Consulting",
+    "companyName": "Wipro Limited"
+  },
+  {
+    "symbol": "HINDALCO",
+    "marketCapCategory": "Large Cap",
+    "sector": "Aluminium",
+    "companyName": "Hindalco Industries Limited"
+  },
+  {
+    "symbol": "INDUSINDBK",
+    "marketCapCategory": "Large Cap",
+    "sector": "Private Sector Bank",
+    "companyName": "IndusInd Bank Limited"
+  },
+  {
+    "symbol": "HDFCLIFE",
+    "marketCapCategory": "Large Cap",
+    "sector": "Life Insurance",
+    "companyName": "HDFC Life Insurance Company Limited"
+  },
+  {
+    "symbol": "TATAMOTORS",
+    "marketCapCategory": "Large Cap",
+    "sector": "Passenger Cars & Utility Vehicles",
+    "companyName": "Tata Motors Limited"
+  },
+  {
+    "symbol": "HEROMOTOCO",
+    "marketCapCategory": "Large Cap",
+    "sector": "2/3 Wheelers",
+    "companyName": "Hero MotoCorp Limited"
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "marketCapCategory": "Large Cap",
+    "sector": "Non Banking Financial Company (NBFC)",
+    "companyName": "Shriram Finance Limited"
+  },
+  {
+    "symbol": "NIFTY NEXT 50",
+    "marketCapCategory": "Small Cap"
+  },
+  {
+    "symbol": "DMART",
+    "marketCapCategory": "Large Cap",
+    "sector": "Diversified Retail",
+    "companyName": "Avenue Supermarts Limited"
+  },
+  {
+    "symbol": "ADANIGREEN",
+    "marketCapCategory": "Mid Cap",
+    "sector": "Power Generation",
+    "companyName": "Adani Green Energy Limited"
+  },
+  {
+    "symbol": "VBL",
+    "marketCapCategory": "Large Cap",
+    "sector": "Other Beverages",
+    "companyName": "Varun Beverages Limited"
+  },
+  {
+    "symbol": "BANKBARODA",
+    "marketCapCategory": "Large Cap",
+    "sector": "Public Sector Bank",
+    "companyName": "Bank of Baroda"
+  },
+  {
+    "symbol": "UNITDSPR",
+    "marketCapCategory": "Large Cap",
+    "sector": "Breweries & Distilleries",
+    "companyName": "United Spirits Limited"
+  },
+  {
+    "symbol": "RECLTD",
+    "marketCapCategory": "Large Cap",
+    "sector": "Financial Institution",
+    "companyName": "REC Limited"
+  },
+  {
+    "symbol": "ICICIGI",
+    "marketCapCategory": "Large Cap",
+    "sector": "General Insurance",
+    "companyName": "ICICI Lombard General Insurance Company Limited"
+  },
+  {
+    "symbol": "SIEMENS",
+    "marketCapCategory": "Large Cap",
+    "sector": "Heavy Electrical Equipment",
+    "companyName": "Siemens Limited"
+  },
+  {
+    "symbol": "CANBK",
+    "marketCapCategory": "Mid Cap",
+    "sector": "Public Sector Bank",
+    "companyName": "Canara Bank"
+  },
+  {
+    "symbol": "IOC",
+    "marketCapCategory": "Large Cap",
+    "sector": "Refineries & Marketing",
+    "companyName": "Indian Oil Corporation Limited"
+  },
+  {
+    "symbol": "DABUR",
+    "marketCapCategory": "Large Cap",
+    "sector": "Personal Care",
+    "companyName": "Dabur India Limited"
+  },
+  {
+    "symbol": "UNIONBANK",
+    "marketCapCategory": "Mid Cap",
+    "sector": "Public Sector Bank",
+    "companyName": "Union Bank of India"
+  },
+  {
+    "symbol": "PNB",
+    "marketCapCategory": "Large Cap",
+    "sector": "Public Sector Bank",
+    "companyName": "Punjab National Bank"
+  },
+  {
+    "symbol": "ATGL",
+    "marketCapCategory": "Mid Cap",
+    "sector": "LPG/CNG/PNG/LNG Supplier",
+    "companyName": "Adani Total Gas Limited"
+  },
+  {
+    "symbol": "BHEL",
+    "marketCapCategory": "Mid Cap",
+    "sector": "Heavy Electrical Equipment",
+    "companyName": "Bharat Heavy Electricals Limited"
+  },
+  {
+    "symbol": "ADANIENSOL",
+    "marketCapCategory": "Large Cap",
+    "sector": "Power Distribution",
+    "companyName": "Adani Energy Solutions Limited"
+  },
+  {
+    "symbol": "SHREECEM",
+    "marketCapCategory": "Large Cap",
+    "sector": "Cement & Cement Products",
+    "companyName": "SHREE CEMENT LIMITED"
+  },
+  {
+    "symbol": "TVSMOTOR",
+    "marketCapCategory": "Large Cap",
+    "sector": "2/3 Wheelers",
+    "companyName": "TVS Motor Company Limited"
+  },
+  {
+    "symbol": "ADANIPOWER",
+    "marketCapCategory": "Large Cap",
+    "sector": "Integrated Power Utilities",
+    "companyName": "Adani Power Limited"
+  },
+  {
+    "symbol": "JSWENERGY",
+    "marketCapCategory": "Mid Cap",
+    "sector": "Power Generation",
+    "companyName": "JSW Energy Limited"
+  },
+  {
+    "symbol": "LTIM",
+    "marketCapCategory": "Large Cap",
+    "sector": "Computers - Software & Consulting",
+    "companyName": "LTIMindtree Limited"
+  },
+  {
+    "symbol": "ABB",
+    "marketCapCategory": "Mid Cap",
+    "sector": "Heavy Electrical Equipment",
+    "companyName": "ABB India Limited"
+  },
+  {
+    "symbol": "HAL",
+    "marketCapCategory": "Large Cap",
+    "sector": "Aerospace & Defense",
+    "companyName": "Hindustan Aeronautics Limited"
+  },
+  {
+    "symbol": "LICI",
+    "marketCapCategory": "Mid Cap",
+    "sector": "Life Insurance",
+    "companyName": "Life Insurance Corporation Of India"
+  },
+  {
+    "symbol": "VEDL",
+    "marketCapCategory": "Large Cap",
+    "sector": "Diversified Metals",
+    "companyName": "Vedanta Limited"
+  },
+  {
+    "symbol": "INDIGO",
+    "marketCapCategory": "Large Cap",
+    "sector": "Airline",
+    "companyName": "InterGlobe Aviation Limited"
+  },
+  {
+    "symbol": "GAIL",
+    "marketCapCategory": "Large Cap",
+    "sector": "Gas Transmission/Marketing",
+    "companyName": "GAIL (India) Limited"
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "marketCapCategory": "Large Cap",
+    "sector": "Cement & Cement Products",
+    "companyName": "Ambuja Cements Limited"
+  },
+  {
+    "symbol": "ZYDUSLIFE",
+    "marketCapCategory": "Mid Cap",
+    "sector": "Pharmaceuticals",
+    "companyName": "Zydus Lifesciences Limited"
+  },
+  {
+    "symbol": "DIVISLAB",
+    "marketCapCategory": "Large Cap",
+    "sector": "Pharmaceuticals",
+    "companyName": "Divi's Laboratories Limited"
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "marketCapCategory": "Large Cap",
+    "sector": "Non Banking Financial Company (NBFC)",
+    "companyName": "Cholamandalam Investment and Finance Company Limited"
+  },
+  {
+    "symbol": "NHPC",
+    "marketCapCategory": "Mid Cap",
+    "sector": "Power Generation",
+    "companyName": "NHPC Limited"
+  },
+  {
+    "symbol": "PIDILITIND",
+    "marketCapCategory": "Large Cap",
+    "sector": "Specialty Chemicals",
+    "companyName": "Pidilite Industries Limited"
+  },
+  {
+    "symbol": "BAJAJHLDNG",
+    "marketCapCategory": "Large Cap",
+    "sector": "Holding Company",
+    "companyName": "Bajaj Holdings & Investment Limited"
+  },
+  {
+    "symbol": "JIOFIN",
+    "marketCapCategory": "Large Cap",
+    "sector": "Investment Company",
+    "companyName": "Jio Financial Services Limited"
+  },
+  {
+    "symbol": "IRCTC",
+    "marketCapCategory": "Mid Cap",
+    "sector": "Tour Travel Related Services",
+    "companyName": "Indian Railway Catering And Tourism Corporation Limited"
+  },
+  {
+    "symbol": "GODREJCP",
+    "marketCapCategory": "Large Cap",
+    "sector": "Personal Care",
+    "companyName": "Godrej Consumer Products Limited"
+  },
+  {
+    "symbol": "ZOMATO",
+    "marketCapCategory": "Large Cap",
+    "sector": "E-Retail/ E-Commerce",
+    "companyName": "Zomato Limited"
+  },
+  {
+    "symbol": "TORNTPHARM",
+    "marketCapCategory": "Large Cap",
+    "sector": "Pharmaceuticals",
+    "companyName": "Torrent Pharmaceuticals Limited"
+  },
+  {
+    "symbol": "TATAPOWER",
+    "marketCapCategory": "Large Cap",
+    "sector": "Integrated Power Utilities",
+    "companyName": "Tata Power Company Limited"
+  },
+  {
+    "symbol": "DLF",
+    "marketCapCategory": "Large Cap",
+    "sector": "Residential Commercial Projects",
+    "companyName": "DLF Limited"
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "marketCapCategory": "Mid Cap",
+    "sector": "Life Insurance",
+    "companyName": "ICICI Prudential Life Insurance Company Limited"
+  },
+  {
+    "symbol": "BOSCHLTD",
+    "marketCapCategory": "Mid Cap",
+    "sector": "Auto Components & Equipments",
+    "companyName": "Bosch Limited"
+  },
+  {
+    "symbol": "IRFC",
+    "marketCapCategory": "Mid Cap",
+    "sector": "Financial Institution",
+    "companyName": "Indian Railway Finance Corporation Limited"
+  },
+  {
+    "symbol": "JINDALSTEL",
+    "marketCapCategory": "Large Cap",
+    "sector": "Iron & Steel",
+    "companyName": "Jindal Steel & Power Limited"
+  },
+  {
+    "symbol": "HAVELLS",
+    "marketCapCategory": "Large Cap",
+    "sector": "Consumer Electronics",
+    "companyName": "Havells India Limited"
+  },
+  {
+    "symbol": "NAUKRI",
+    "marketCapCategory": "Large Cap",
+    "sector": "Internet & Catalogue Retail",
+    "companyName": "Info Edge (India) Limited"
+  },
+  {
+    "symbol": "PFC",
+    "marketCapCategory": "Large Cap",
+    "sector": "Financial Institution",
+    "companyName": "Power Finance Corporation Limited"
+  },
+  {
+    "symbol": "LODHA",
+    "marketCapCategory": "Large Cap",
+    "sector": "Residential Commercial Projects",
+    "companyName": "Macrotech Developers Limited"
+  },
+  {
+    "symbol": "MOTHERSON",
+    "marketCapCategory": "Large Cap",
+    "sector": "Auto Components & Equipments",
+    "companyName": "Samvardhana Motherson International Limited"
+  }
+]
