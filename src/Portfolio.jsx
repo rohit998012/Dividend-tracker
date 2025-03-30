@@ -2,10 +2,11 @@ import React, { useState, useEffect } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { getFirestore, doc, setDoc, getDoc } from "firebase/firestore";
 import { auth, googleProvider, signInWithPopup, signInWithEmailAndPassword, createUserWithEmailAndPassword, signOut } from "./firebase";
-
+import { ToastContainer} from "react-toastify";
 import { app } from "./firebase"; 
-
-const Portfolio = () => {
+import LoginHeader from "./LoginHeader";
+import LoginModal from "./LoginModal";
+const Portfolio = (props) => {
     const db = getFirestore(app);
     useEffect(() => {
         const fetchPortfolios = async () => {
@@ -120,6 +121,10 @@ const userDocRef = doc(db, "users", userId);
 
   return (
     <>
+         <ToastContainer />
+          <LoginHeader user={props.user} onLoginClick={() => props.setShowModal(true)} onLogoutClick={props.handleLogout} />
+          <LoginModal showModal={props.showModal} onClose={() => props.setShowModal(false)} />
+     
     <div className="container mt-4">
       <div className="mb-3">
         <ul className="nav nav-pills justify-content-center" style={{ fontSize: "1.2rem" }}>

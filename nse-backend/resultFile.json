@@ -1,127 +1,10 @@
 [
   {
-    "companySymbol": "BEL.NS",
-    "companyName": "Bharat Electronics Limited",
-    "totalDividend": 2.3,
-    "stockPrice": 303.88,
-    "dividendPercent": "0.76",
-    "marketCapCategory": "Large Cap",
-    "sector": "Aerospace & Defense"
-  },
-  {
-    "companySymbol": "SBIN.NS",
-    "companyName": "State Bank of India",
-    "totalDividend": 13.7,
-    "stockPrice": 775.75,
-    "dividendPercent": "1.77",
-    "marketCapCategory": "Large Cap",
-    "sector": "Public Sector Bank"
-  },
-  {
-    "companySymbol": "CIPLA.NS",
-    "companyName": "Cipla Limited",
-    "totalDividend": 13,
-    "stockPrice": 1524.1,
-    "dividendPercent": "0.85",
-    "marketCapCategory": "Large Cap",
-    "sector": "Pharmaceuticals"
-  },
-  {
-    "companySymbol": "ICICIBANK.NS",
-    "companyName": "ICICI Bank Limited",
-    "totalDividend": 10,
-    "stockPrice": 1360.25,
-    "dividendPercent": "0.74",
-    "marketCapCategory": "Large Cap",
-    "sector": "Private Sector Bank"
-  },
-  {
-    "companySymbol": "POWERGRID.NS",
-    "companyName": "Power Grid Corporation of India Limited",
-    "totalDividend": 10.5,
-    "stockPrice": 291.6,
-    "dividendPercent": "3.60",
-    "marketCapCategory": "Large Cap",
-    "sector": "Power - Transmission"
-  },
-  {
-    "companySymbol": "ONGC.NS",
-    "companyName": "Oil & Natural Gas Corporation Limited",
-    "totalDividend": 13.5,
-    "stockPrice": 244.1,
-    "dividendPercent": "5.53",
-    "marketCapCategory": "Large Cap",
-    "sector": "Oil Exploration & Production"
-  },
-  {
-    "companySymbol": "TATASTEEL.NS",
-    "companyName": "Tata Steel Limited",
-    "totalDividend": 3.6,
-    "stockPrice": 158.5,
-    "dividendPercent": "2.27",
-    "marketCapCategory": "Large Cap",
-    "sector": "Iron & Steel"
-  },
-  {
-    "companySymbol": "NTPC.NS",
-    "companyName": "NTPC Limited",
-    "totalDividend": 8.25,
-    "stockPrice": 366.4,
-    "dividendPercent": "2.25",
-    "marketCapCategory": "Large Cap",
-    "sector": "Power Generation"
-  },
-  {
-    "companySymbol": "SUNPHARMA.NS",
-    "companyName": "Sun Pharmaceutical Industries Limited",
-    "totalDividend": 15.5,
-    "stockPrice": 1784.2,
-    "dividendPercent": "0.87",
-    "marketCapCategory": "Large Cap",
-    "sector": "Pharmaceuticals"
-  },
-  {
-    "companySymbol": "TRENT.NS",
-    "companyName": "Trent Limited",
-    "totalDividend": 3.2,
-    "stockPrice": 5086.25,
-    "dividendPercent": "0.06",
-    "marketCapCategory": "Large Cap",
-    "sector": "Speciality Retail"
-  },
-  {
-    "companySymbol": "DRREDDY.NS",
-    "companyName": "Dr. Reddy's Laboratories Limited",
-    "totalDividend": 8,
-    "stockPrice": 1201.15,
-    "dividendPercent": "0.67",
-    "marketCapCategory": "Large Cap",
-    "sector": "Pharmaceuticals"
-  },
-  {
-    "companySymbol": "TCS.NS",
-    "companyName": "Tata Consultancy Services Limited",
-    "totalDividend": 58,
-    "stockPrice": 3639,
-    "dividendPercent": "1.59",
-    "marketCapCategory": "Large Cap",
-    "sector": "Computers - Software & Consulting"
-  },
-  {
-    "companySymbol": "TECHM.NS",
-    "companyName": "Tech Mahindra Limited",
-    "totalDividend": 43,
-    "stockPrice": 1452,
-    "dividendPercent": "2.96",
-    "marketCapCategory": "Large Cap",
-    "sector": "Computers - Software & Consulting"
-  },
-  {
     "companySymbol": "TATACONSUM.NS",
     "companyName": "TATA CONSUMER PRODUCTS LIMITED",
     "totalDividend": 7.654853,
-    "stockPrice": 973.4,
-    "dividendPercent": "0.79",
+    "stockPrice": 1001.9,
+    "dividendPercent": "0.76",
     "marketCapCategory": "Large Cap",
     "sector": "Tea & Coffee"
   },
@@ -129,593 +12,602 @@
     "companySymbol": "KOTAKBANK.NS",
     "companyName": "Kotak Mahindra Bank Limited",
     "totalDividend": 2,
-    "stockPrice": 2170.9,
+    "stockPrice": 2171.2,
     "dividendPercent": "0.09",
     "marketCapCategory": "Large Cap",
     "sector": "Private Sector Bank"
-  },
-  {
-    "companySymbol": "AXISBANK.NS",
-    "companyName": "Axis Bank Limited",
-    "totalDividend": 1,
-    "stockPrice": 1097.45,
-    "dividendPercent": "0.09",
-    "marketCapCategory": "Large Cap",
-    "sector": "Private Sector Bank"
-  },
-  {
-    "companySymbol": "LT.NS",
-    "companyName": "Larsen & Toubro Limited",
-    "totalDividend": 28,
-    "stockPrice": 3480.95,
-    "dividendPercent": "0.80",
-    "marketCapCategory": "Large Cap",
-    "sector": "Civil Construction"
-  },
-  {
-    "companySymbol": "EICHERMOT.NS",
-    "companyName": "Eicher Motors Limited",
-    "totalDividend": 51,
-    "stockPrice": 5429.25,
-    "dividendPercent": "0.94",
-    "marketCapCategory": "Large Cap",
-    "sector": "2/3 Wheelers"
-  },
-  {
-    "companySymbol": "BAJAJ-AUTO.NS",
-    "companyName": "Bajaj Auto Limited",
-    "totalDividend": 80,
-    "stockPrice": 8168.6,
-    "dividendPercent": "0.98",
-    "marketCapCategory": "Large Cap",
-    "sector": "2/3 Wheelers"
-  },
-  {
-    "companySymbol": "ITC.NS",
-    "companyName": "ITC Limited",
-    "totalDividend": 14,
-    "stockPrice": 411.45,
-    "dividendPercent": "3.40",
-    "marketCapCategory": "Large Cap",
-    "sector": "Diversified FMCG"
-  },
-  {
-    "companySymbol": "NESTLEIND.NS",
-    "companyName": "Nestle India Limited",
-    "totalDividend": 25.5,
-    "stockPrice": 2267.8,
-    "dividendPercent": "1.12",
-    "marketCapCategory": "Large Cap",
-    "sector": "Packaged Foods"
-  },
-  {
-    "companySymbol": "M&M.NS",
-    "companyName": "Mahindra & Mahindra Limited",
-    "totalDividend": 21.1,
-    "stockPrice": 2771.5,
-    "dividendPercent": "0.76",
-    "marketCapCategory": "Large Cap",
-    "sector": "Passenger Cars & Utility Vehicles"
-  },
-  {
-    "companySymbol": "HDFCBANK.NS",
-    "companyName": "HDFC Bank Limited",
-    "totalDividend": 19.5,
-    "stockPrice": 1793.95,
-    "dividendPercent": "1.09",
-    "marketCapCategory": "Large Cap",
-    "sector": "Private Sector Bank"
-  },
-  {
-    "companySymbol": "TITAN.NS",
-    "companyName": "Titan Company Limited",
-    "totalDividend": 11,
-    "stockPrice": 3082.65,
-    "dividendPercent": "0.36",
-    "marketCapCategory": "Large Cap",
-    "sector": "Gems Jewellery And Watches"
-  },
-  {
-    "companySymbol": "COALINDIA.NS",
-    "companyName": "Coal India Limited",
-    "totalDividend": 26.35,
-    "stockPrice": 406.85,
-    "dividendPercent": "6.48",
-    "marketCapCategory": "Large Cap",
-    "sector": "Coal"
-  },
-  {
-    "companySymbol": "HCLTECH.NS",
-    "companyName": "HCL Technologies Limited",
-    "totalDividend": 54,
-    "stockPrice": 1593.7,
-    "dividendPercent": "3.39",
-    "marketCapCategory": "Large Cap",
-    "sector": "Computers - Software & Consulting"
-  },
-  {
-    "companySymbol": "ULTRACEMCO.NS",
-    "companyName": "UltraTech Cement Limited",
-    "totalDividend": 70,
-    "stockPrice": 11032.45,
-    "dividendPercent": "0.63",
-    "marketCapCategory": "Large Cap",
-    "sector": "Cement & Cement Products"
-  },
-  {
-    "companySymbol": "BHARTIARTL.NS",
-    "companyName": "Bharti Airtel Limited",
-    "totalDividend": 8,
-    "stockPrice": 1721.8,
-    "dividendPercent": "0.46",
-    "marketCapCategory": "Large Cap",
-    "sector": "Telecom - Cellular & Fixed line services"
-  },
-  {
-    "companySymbol": "BAJAJFINSV.NS",
-    "companyName": "Bajaj Finserv Limited",
-    "totalDividend": 1,
-    "stockPrice": 1896.95,
-    "dividendPercent": "0.05",
-    "marketCapCategory": "Large Cap",
-    "sector": "Holding Company"
-  },
-  {
-    "companySymbol": "HINDUNILVR.NS",
-    "companyName": "Hindustan Unilever Limited",
-    "totalDividend": 34,
-    "stockPrice": 2249.6,
-    "dividendPercent": "1.51",
-    "marketCapCategory": "Large Cap",
-    "sector": "Diversified FMCG"
-  },
-  {
-    "companySymbol": "INFY.NS",
-    "companyName": "Infosys Limited",
-    "totalDividend": 41,
-    "stockPrice": 1596.75,
-    "dividendPercent": "2.57",
-    "marketCapCategory": "Large Cap",
-    "sector": "Computers - Software & Consulting"
   },
   {
     "companySymbol": "APOLLOHOSP.NS",
     "companyName": "Apollo Hospitals Enterprise Limited",
     "totalDividend": 19,
-    "stockPrice": 6640.8,
+    "stockPrice": 6616.2,
     "dividendPercent": "0.29",
     "marketCapCategory": "Large Cap",
     "sector": "Hospital"
   },
   {
-    "companySymbol": "BAJFINANCE.NS",
-    "companyName": "Bajaj Finance Limited",
-    "totalDividend": 36,
-    "stockPrice": 9096.05,
-    "dividendPercent": "0.40",
+    "companySymbol": "ONGC.NS",
+    "companyName": "Oil & Natural Gas Corporation Limited",
+    "totalDividend": 13.5,
+    "stockPrice": 246.38,
+    "dividendPercent": "5.48",
     "marketCapCategory": "Large Cap",
-    "sector": "Non Banking Financial Company (NBFC)"
+    "sector": "Oil Exploration & Production"
   },
   {
-    "companySymbol": "RELIANCE.NS",
-    "companyName": "Reliance Industries Limited",
-    "totalDividend": 5,
-    "stockPrice": 1299.95,
-    "dividendPercent": "0.38",
-    "marketCapCategory": "Large Cap",
-    "sector": "Refineries & Marketing"
-  },
-  {
-    "companySymbol": "ADANIENT.NS",
-    "companyName": "Adani Enterprises Limited",
-    "totalDividend": 1.3,
-    "stockPrice": 2377.05,
-    "dividendPercent": "0.05",
-    "marketCapCategory": "Large Cap",
-    "sector": "Trading - Minerals"
-  },
-  {
-    "companySymbol": "ADANIPORTS.NS",
-    "companyName": "Adani Ports and Special Economic Zone Limited",
-    "totalDividend": 6,
-    "stockPrice": 1207.5,
-    "dividendPercent": "0.50",
-    "marketCapCategory": "Large Cap",
-    "sector": "Port & Port services"
-  },
-  {
-    "companySymbol": "BPCL.NS",
-    "companyName": "Bharat Petroleum Corporation Limited",
-    "totalDividend": 15.5,
-    "stockPrice": 281.79,
-    "dividendPercent": "5.50",
-    "marketCapCategory": "Large Cap",
-    "sector": "Refineries & Marketing"
-  },
-  {
-    "companySymbol": "JSWSTEEL.NS",
-    "companyName": "JSW Steel Limited",
-    "totalDividend": 7.3,
-    "stockPrice": 1064.1,
-    "dividendPercent": "0.69",
-    "marketCapCategory": "Large Cap",
-    "sector": "Iron & Steel"
-  },
-  {
-    "companySymbol": "ASIANPAINT.NS",
-    "companyName": "Asian Paints Limited",
-    "totalDividend": 32.4,
-    "stockPrice": 2314.4,
-    "dividendPercent": "1.40",
-    "marketCapCategory": "Large Cap",
-    "sector": "Paints"
-  },
-  {
-    "companySymbol": "MARUTI.NS",
-    "companyName": "Maruti Suzuki India Limited",
-    "totalDividend": 125,
-    "stockPrice": 11914.7,
-    "dividendPercent": "1.05",
-    "marketCapCategory": "Large Cap",
-    "sector": "Passenger Cars & Utility Vehicles"
-  },
-  {
-    "companySymbol": "GRASIM.NS",
-    "companyName": "Grasim Industries Limited",
+    "companySymbol": "ICICIBANK.NS",
+    "companyName": "ICICI Bank Limited",
     "totalDividend": 10,
-    "stockPrice": 2513.85,
-    "dividendPercent": "0.40",
-    "marketCapCategory": "Large Cap",
-    "sector": "Cement & Cement Products"
-  },
-  {
-    "companySymbol": "BRITANNIA.NS",
-    "companyName": "Britannia Industries Limited",
-    "totalDividend": 73.5,
-    "stockPrice": 4806,
-    "dividendPercent": "1.53",
-    "marketCapCategory": "Large Cap",
-    "sector": "Packaged Foods"
-  },
-  {
-    "companySymbol": "SBILIFE.NS",
-    "companyName": "SBI Life Insurance Company Limited",
-    "totalDividend": 2.7,
-    "stockPrice": 1575.55,
-    "dividendPercent": "0.17",
-    "marketCapCategory": "Large Cap",
-    "sector": "Life Insurance"
-  },
-  {
-    "companySymbol": "WIPRO.NS",
-    "companyName": "Wipro Limited",
-    "totalDividend": 6,
-    "stockPrice": 269.85,
-    "dividendPercent": "2.22",
-    "marketCapCategory": "Large Cap",
-    "sector": "Computers - Software & Consulting"
-  },
-  {
-    "companySymbol": "HINDALCO.NS",
-    "companyName": "Hindalco Industries Limited",
-    "totalDividend": 3.5,
-    "stockPrice": 704.6,
-    "dividendPercent": "0.50",
-    "marketCapCategory": "Large Cap",
-    "sector": "Aluminium"
-  },
-  {
-    "companySymbol": "INDUSINDBK.NS",
-    "companyName": "IndusInd Bank Limited",
-    "totalDividend": 16.5,
-    "stockPrice": 669.8,
-    "dividendPercent": "2.46",
+    "stockPrice": 1348.35,
+    "dividendPercent": "0.74",
     "marketCapCategory": "Large Cap",
     "sector": "Private Sector Bank"
-  },
-  {
-    "companySymbol": "HDFCLIFE.NS",
-    "companyName": "HDFC Life Insurance Company Limited",
-    "totalDividend": 2,
-    "stockPrice": 682.65,
-    "dividendPercent": "0.29",
-    "marketCapCategory": "Large Cap",
-    "sector": "Life Insurance"
   },
   {
     "companySymbol": "TATAMOTORS.NS",
     "companyName": "Tata Motors Limited",
     "totalDividend": 3,
-    "stockPrice": 716.05,
-    "dividendPercent": "0.42",
+    "stockPrice": 674.45,
+    "dividendPercent": "0.44",
     "marketCapCategory": "Large Cap",
     "sector": "Passenger Cars & Utility Vehicles"
+  },
+  {
+    "companySymbol": "HINDUNILVR.NS",
+    "companyName": "Hindustan Unilever Limited",
+    "totalDividend": 34,
+    "stockPrice": 2258.85,
+    "dividendPercent": "1.51",
+    "marketCapCategory": "Large Cap",
+    "sector": "Diversified FMCG"
+  },
+  {
+    "companySymbol": "JIOFIN.NS",
+    "companyName": "Jio Financial Services Limited",
+    "totalDividend": null,
+    "stockPrice": 227.51,
+    "dividendPercent": null,
+    "marketCapCategory": "Large Cap",
+    "sector": "Investment Company"
+  },
+  {
+    "companySymbol": "SBILIFE.NS",
+    "companyName": "SBI Life Insurance Company Limited",
+    "totalDividend": 2.7,
+    "stockPrice": 1547.85,
+    "dividendPercent": "0.17",
+    "marketCapCategory": "Large Cap",
+    "sector": "Life Insurance"
+  },
+  {
+    "companySymbol": "HDFCLIFE.NS",
+    "companyName": "HDFC Life Insurance Company Limited",
+    "totalDividend": 2,
+    "stockPrice": 685.7,
+    "dividendPercent": "0.29",
+    "marketCapCategory": "Large Cap",
+    "sector": "Life Insurance"
+  },
+  {
+    "companySymbol": "AXISBANK.NS",
+    "companyName": "Axis Bank Limited",
+    "totalDividend": 1,
+    "stockPrice": 1102,
+    "dividendPercent": "0.09",
+    "marketCapCategory": "Large Cap",
+    "sector": "Private Sector Bank"
+  },
+  {
+    "companySymbol": "BEL.NS",
+    "companyName": "Bharat Electronics Limited",
+    "totalDividend": 2.3,
+    "stockPrice": 301.32,
+    "dividendPercent": "0.76",
+    "marketCapCategory": "Large Cap",
+    "sector": "Aerospace & Defense"
+  },
+  {
+    "companySymbol": "NESTLEIND.NS",
+    "companyName": "Nestle India Limited",
+    "totalDividend": 25.5,
+    "stockPrice": 2250.75,
+    "dividendPercent": "1.13",
+    "marketCapCategory": "Large Cap",
+    "sector": "Packaged Foods"
+  },
+  {
+    "companySymbol": "ITC.NS",
+    "companyName": "ITC Limited",
+    "totalDividend": 14,
+    "stockPrice": 409.75,
+    "dividendPercent": "3.42",
+    "marketCapCategory": "Large Cap",
+    "sector": "Diversified FMCG"
+  },
+  {
+    "companySymbol": "BHARTIARTL.NS",
+    "companyName": "Bharti Airtel Limited",
+    "totalDividend": 8,
+    "stockPrice": 1733.4,
+    "dividendPercent": "0.46",
+    "marketCapCategory": "Large Cap",
+    "sector": "Telecom - Cellular & Fixed line services"
+  },
+  {
+    "companySymbol": "SUNPHARMA.NS",
+    "companyName": "Sun Pharmaceutical Industries Limited",
+    "totalDividend": 15.5,
+    "stockPrice": 1734.7,
+    "dividendPercent": "0.89",
+    "marketCapCategory": "Large Cap",
+    "sector": "Pharmaceuticals"
+  },
+  {
+    "companySymbol": "COALINDIA.NS",
+    "companyName": "Coal India Limited",
+    "totalDividend": 26.35,
+    "stockPrice": 398.2,
+    "dividendPercent": "6.62",
+    "marketCapCategory": "Large Cap",
+    "sector": "Coal"
+  },
+  {
+    "companySymbol": "JSWSTEEL.NS",
+    "companyName": "JSW Steel Limited",
+    "totalDividend": 7.3,
+    "stockPrice": 1063.2,
+    "dividendPercent": "0.69",
+    "marketCapCategory": "Large Cap",
+    "sector": "Iron & Steel"
+  },
+  {
+    "companySymbol": "HDFCBANK.NS",
+    "companyName": "HDFC Bank Limited",
+    "totalDividend": 19.5,
+    "stockPrice": 1828.2,
+    "dividendPercent": "1.07",
+    "marketCapCategory": "Large Cap",
+    "sector": "Private Sector Bank"
+  },
+  {
+    "companySymbol": "EICHERMOT.NS",
+    "companyName": "Eicher Motors Limited",
+    "totalDividend": 51,
+    "stockPrice": 5347.7,
+    "dividendPercent": "0.95",
+    "marketCapCategory": "Large Cap",
+    "sector": "2/3 Wheelers"
+  },
+  {
+    "companySymbol": "SBIN.NS",
+    "companyName": "State Bank of India",
+    "totalDividend": 13.7,
+    "stockPrice": 771.5,
+    "dividendPercent": "1.78",
+    "marketCapCategory": "Large Cap",
+    "sector": "Public Sector Bank"
+  },
+  {
+    "companySymbol": "BAJAJFINSV.NS",
+    "companyName": "Bajaj Finserv Limited",
+    "totalDividend": 1,
+    "stockPrice": 2007.35,
+    "dividendPercent": "0.05",
+    "marketCapCategory": "Large Cap",
+    "sector": "Holding Company"
+  },
+  {
+    "companySymbol": "RELIANCE.NS",
+    "companyName": "Reliance Industries Limited",
+    "totalDividend": 10,
+    "stockPrice": 1275.1,
+    "dividendPercent": "0.78",
+    "marketCapCategory": "Large Cap",
+    "sector": "Refineries & Marketing"
+  },
+  {
+    "companySymbol": "LT.NS",
+    "companyName": "Larsen & Toubro Limited",
+    "totalDividend": 28,
+    "stockPrice": 3492.3,
+    "dividendPercent": "0.80",
+    "marketCapCategory": "Large Cap",
+    "sector": "Civil Construction"
+  },
+  {
+    "companySymbol": "GRASIM.NS",
+    "companyName": "Grasim Industries Limited",
+    "totalDividend": 10,
+    "stockPrice": 2611.15,
+    "dividendPercent": "0.38",
+    "marketCapCategory": "Large Cap",
+    "sector": "Cement & Cement Products"
+  },
+  {
+    "companySymbol": "ASIANPAINT.NS",
+    "companyName": "Asian Paints Limited",
+    "totalDividend": 32.4,
+    "stockPrice": 2340.65,
+    "dividendPercent": "1.38",
+    "marketCapCategory": "Large Cap",
+    "sector": "Paints"
+  },
+  {
+    "companySymbol": "TECHM.NS",
+    "companyName": "Tech Mahindra Limited",
+    "totalDividend": 43,
+    "stockPrice": 1418.25,
+    "dividendPercent": "3.03",
+    "marketCapCategory": "Large Cap",
+    "sector": "Computers - Software & Consulting"
+  },
+  {
+    "companySymbol": "NTPC.NS",
+    "companyName": "NTPC Limited",
+    "totalDividend": 8.25,
+    "stockPrice": 357.6,
+    "dividendPercent": "2.31",
+    "marketCapCategory": "Large Cap",
+    "sector": "Power Generation"
+  },
+  {
+    "companySymbol": "BAJFINANCE.NS",
+    "companyName": "Bajaj Finance Limited",
+    "totalDividend": 36,
+    "stockPrice": 8945.6,
+    "dividendPercent": "0.40",
+    "marketCapCategory": "Large Cap",
+    "sector": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "companySymbol": "TITAN.NS",
+    "companyName": "Titan Company Limited",
+    "totalDividend": 11,
+    "stockPrice": 3063.35,
+    "dividendPercent": "0.36",
+    "marketCapCategory": "Large Cap",
+    "sector": "Gems Jewellery And Watches"
+  },
+  {
+    "companySymbol": "TATASTEEL.NS",
+    "companyName": "Tata Steel Limited",
+    "totalDividend": 3.6,
+    "stockPrice": 154.24,
+    "dividendPercent": "2.33",
+    "marketCapCategory": "Large Cap",
+    "sector": "Iron & Steel"
+  },
+  {
+    "companySymbol": "ULTRACEMCO.NS",
+    "companyName": "UltraTech Cement Limited",
+    "totalDividend": 70,
+    "stockPrice": 11509.55,
+    "dividendPercent": "0.61",
+    "marketCapCategory": "Large Cap",
+    "sector": "Cement & Cement Products"
+  },
+  {
+    "companySymbol": "TCS.NS",
+    "companyName": "Tata Consultancy Services Limited",
+    "totalDividend": 58,
+    "stockPrice": 3606.15,
+    "dividendPercent": "1.61",
+    "marketCapCategory": "Large Cap",
+    "sector": "Computers - Software & Consulting"
   },
   {
     "companySymbol": "HEROMOTOCO.NS",
     "companyName": "Hero MotoCorp Limited",
     "totalDividend": 140,
-    "stockPrice": 3626.5,
-    "dividendPercent": "3.86",
+    "stockPrice": 3722.95,
+    "dividendPercent": "3.76",
     "marketCapCategory": "Large Cap",
     "sector": "2/3 Wheelers"
   },
   {
+    "companySymbol": "ADANIPORTS.NS",
+    "companyName": "Adani Ports and Special Economic Zone Limited",
+    "totalDividend": 6,
+    "stockPrice": 1182.95,
+    "dividendPercent": "0.51",
+    "marketCapCategory": "Large Cap",
+    "sector": "Port & Port services"
+  },
+  {
+    "companySymbol": "BAJAJ-AUTO.NS",
+    "companyName": "Bajaj Auto Limited",
+    "totalDividend": 80,
+    "stockPrice": 7878.85,
+    "dividendPercent": "1.02",
+    "marketCapCategory": "Large Cap",
+    "sector": "2/3 Wheelers"
+  },
+  {
+    "companySymbol": "DRREDDY.NS",
+    "companyName": "Dr. Reddy's Laboratories Limited",
+    "totalDividend": 40,
+    "stockPrice": 1144.2,
+    "dividendPercent": "3.50",
+    "marketCapCategory": "Large Cap",
+    "sector": "Pharmaceuticals"
+  },
+  {
+    "companySymbol": "HINDALCO.NS",
+    "companyName": "Hindalco Industries Limited",
+    "totalDividend": 3.5,
+    "stockPrice": 682.45,
+    "dividendPercent": "0.51",
+    "marketCapCategory": "Large Cap",
+    "sector": "Aluminium"
+  },
+  {
+    "companySymbol": "POWERGRID.NS",
+    "companyName": "Power Grid Corporation of India Limited",
+    "totalDividend": 10.5,
+    "stockPrice": 290.35,
+    "dividendPercent": "3.62",
+    "marketCapCategory": "Large Cap",
+    "sector": "Power - Transmission"
+  },
+  {
+    "companySymbol": "MARUTI.NS",
+    "companyName": "Maruti Suzuki India Limited",
+    "totalDividend": 125,
+    "stockPrice": 11522.15,
+    "dividendPercent": "1.08",
+    "marketCapCategory": "Large Cap",
+    "sector": "Passenger Cars & Utility Vehicles"
+  },
+  {
+    "companySymbol": "ADANIENT.NS",
+    "companyName": "Adani Enterprises Limited",
+    "totalDividend": 1.3,
+    "stockPrice": 2315.8,
+    "dividendPercent": "0.06",
+    "marketCapCategory": "Large Cap",
+    "sector": "Trading - Minerals"
+  },
+  {
+    "companySymbol": "TRENT.NS",
+    "companyName": "Trent Limited",
+    "totalDividend": 3.2,
+    "stockPrice": 5325.15,
+    "dividendPercent": "0.06",
+    "marketCapCategory": "Large Cap",
+    "sector": "Speciality Retail"
+  },
+  {
+    "companySymbol": "INFY.NS",
+    "companyName": "Infosys Limited",
+    "totalDividend": 29,
+    "stockPrice": 1570.65,
+    "dividendPercent": "1.85",
+    "marketCapCategory": "Large Cap",
+    "sector": "Computers - Software & Consulting"
+  },
+  {
+    "companySymbol": "HCLTECH.NS",
+    "companyName": "HCL Technologies Limited",
+    "totalDividend": 54,
+    "stockPrice": 1592.5,
+    "dividendPercent": "3.39",
+    "marketCapCategory": "Large Cap",
+    "sector": "Computers - Software & Consulting"
+  },
+  {
+    "companySymbol": "ZOMATO.NS",
+    "companyName": "Zomato Limited",
+    "totalDividend": null,
+    "stockPrice": 201.7,
+    "dividendPercent": null,
+    "marketCapCategory": "Large Cap",
+    "sector": "E-Retail/ E-Commerce"
+  },
+  {
+    "companySymbol": "M&M.NS",
+    "companyName": "Mahindra & Mahindra Limited",
+    "totalDividend": 21.1,
+    "stockPrice": 2665.8,
+    "dividendPercent": "0.79",
+    "marketCapCategory": "Large Cap",
+    "sector": "Passenger Cars & Utility Vehicles"
+  },
+  {
+    "companySymbol": "CIPLA.NS",
+    "companyName": "Cipla Limited",
+    "totalDividend": 13,
+    "stockPrice": 1442.2,
+    "dividendPercent": "0.90",
+    "marketCapCategory": "Large Cap",
+    "sector": "Pharmaceuticals"
+  },
+  {
     "companySymbol": "SHRIRAMFIN.NS",
     "companyName": "Shriram Finance Limited",
-    "totalDividend": 9.9,
-    "stockPrice": 689.8,
-    "dividendPercent": "1.44",
+    "totalDividend": 21.9,
+    "stockPrice": 656,
+    "dividendPercent": "3.34",
     "marketCapCategory": "Large Cap",
     "sector": "Non Banking Financial Company (NBFC)"
   },
   {
-    "companySymbol": "DMART.NS",
-    "companyName": "Avenue Supermarts Limited",
-    "totalDividend": null,
-    "stockPrice": 3932.1,
-    "dividendPercent": null,
+    "companySymbol": "WIPRO.NS",
+    "companyName": "Wipro Limited",
+    "totalDividend": 6,
+    "stockPrice": 262.25,
+    "dividendPercent": "2.29",
     "marketCapCategory": "Large Cap",
-    "sector": "Diversified Retail"
+    "sector": "Computers - Software & Consulting"
   },
   {
-    "companySymbol": "ADANIGREEN.NS",
-    "companyName": "Adani Green Energy Limited",
-    "totalDividend": null,
-    "stockPrice": 958.6,
-    "dividendPercent": null,
-    "marketCapCategory": "Mid Cap",
-    "sector": "Power Generation"
-  },
-  {
-    "companySymbol": "VBL.NS",
-    "companyName": "Varun Beverages Limited",
-    "totalDividend": 1.75,
-    "stockPrice": 537.45,
-    "dividendPercent": "0.33",
+    "companySymbol": "INDUSINDBK.NS",
+    "companyName": "IndusInd Bank Limited",
+    "totalDividend": 16.5,
+    "stockPrice": 649.85,
+    "dividendPercent": "2.54",
     "marketCapCategory": "Large Cap",
-    "sector": "Other Beverages"
+    "sector": "Private Sector Bank"
   },
   {
-    "companySymbol": "BANKBARODA.NS",
-    "companyName": "Bank of Baroda",
-    "totalDividend": 7.6,
-    "stockPrice": 223.8,
-    "dividendPercent": "3.40",
+    "companySymbol": "BRITANNIA.NS",
+    "companyName": "Britannia Industries Limited",
+    "totalDividend": 73.5,
+    "stockPrice": 4936.9,
+    "dividendPercent": "1.49",
     "marketCapCategory": "Large Cap",
-    "sector": "Public Sector Bank"
+    "sector": "Packaged Foods"
   },
   {
-    "companySymbol": "UNITDSPR.NS",
-    "companyName": "United Spirits Limited",
-    "totalDividend": 5,
-    "stockPrice": 1392.25,
-    "dividendPercent": "0.36",
-    "marketCapCategory": "Large Cap",
-    "sector": "Breweries & Distilleries"
-  },
-  {
-    "companySymbol": "RECLTD.NS",
-    "companyName": "REC Limited",
-    "totalDividend": 21.3,
-    "stockPrice": 439.6,
-    "dividendPercent": "4.85",
-    "marketCapCategory": "Large Cap",
-    "sector": "Financial Institution"
-  },
-  {
-    "companySymbol": "ICICIGI.NS",
-    "companyName": "ICICI Lombard General Insurance Company Limited",
-    "totalDividend": 11.5,
-    "stockPrice": 1768.65,
-    "dividendPercent": "0.65",
-    "marketCapCategory": "Large Cap",
-    "sector": "General Insurance"
-  },
-  {
-    "companySymbol": "SIEMENS.NS",
-    "companyName": "Siemens Limited",
-    "totalDividend": 12,
-    "stockPrice": 5252,
-    "dividendPercent": "0.23",
-    "marketCapCategory": "Large Cap",
-    "sector": "Heavy Electrical Equipment"
-  },
-  {
-    "companySymbol": "CANBK.NS",
-    "companyName": "Canara Bank",
-    "totalDividend": 3.22,
-    "stockPrice": 90.91,
-    "dividendPercent": "3.54",
-    "marketCapCategory": "Mid Cap",
-    "sector": "Public Sector Bank"
-  },
-  {
-    "companySymbol": "IOC.NS",
-    "companyName": "Indian Oil Corporation Limited",
-    "totalDividend": 7,
-    "stockPrice": 133.8,
-    "dividendPercent": "5.23",
-    "marketCapCategory": "Large Cap",
-    "sector": "Refineries & Marketing"
-  },
-  {
-    "companySymbol": "DABUR.NS",
-    "companyName": "Dabur India Limited",
-    "totalDividend": 5.5,
-    "stockPrice": 506.1,
-    "dividendPercent": "1.09",
+    "companySymbol": "GODREJCP.NS",
+    "companyName": "Godrej Consumer Products Limited",
+    "totalDividend": 25,
+    "stockPrice": 1159.25,
+    "dividendPercent": "2.16",
     "marketCapCategory": "Large Cap",
     "sector": "Personal Care"
-  },
-  {
-    "companySymbol": "UNIONBANK.NS",
-    "companyName": "Union Bank of India",
-    "totalDividend": 3.6,
-    "stockPrice": 126.1,
-    "dividendPercent": "2.85",
-    "marketCapCategory": "Mid Cap",
-    "sector": "Public Sector Bank"
-  },
-  {
-    "companySymbol": "PNB.NS",
-    "companyName": "Punjab National Bank",
-    "totalDividend": 1.5,
-    "stockPrice": 95.8,
-    "dividendPercent": "1.57",
-    "marketCapCategory": "Large Cap",
-    "sector": "Public Sector Bank"
-  },
-  {
-    "companySymbol": "ATGL.NS",
-    "companyName": "Adani Total Gas Limited",
-    "totalDividend": 0.25,
-    "stockPrice": 630.4,
-    "dividendPercent": "0.04",
-    "marketCapCategory": "Mid Cap",
-    "sector": "LPG/CNG/PNG/LNG Supplier"
-  },
-  {
-    "companySymbol": "BHEL.NS",
-    "companyName": "Bharat Heavy Electricals Limited",
-    "totalDividend": 0.25,
-    "stockPrice": 217.98,
-    "dividendPercent": "0.11",
-    "marketCapCategory": "Mid Cap",
-    "sector": "Heavy Electrical Equipment"
-  },
-  {
-    "companySymbol": "ADANIENSOL.NS",
-    "companyName": "Adani Energy Solutions Limited",
-    "totalDividend": null,
-    "stockPrice": 823,
-    "dividendPercent": null,
-    "marketCapCategory": "Large Cap",
-    "sector": "Power Distribution"
   },
   {
     "companySymbol": "SHREECEM.NS",
     "companyName": "SHREE CEMENT LIMITED",
     "totalDividend": 105,
-    "stockPrice": 29360,
-    "dividendPercent": "0.36",
+    "stockPrice": 30502.95,
+    "dividendPercent": "0.34",
     "marketCapCategory": "Large Cap",
     "sector": "Cement & Cement Products"
   },
   {
-    "companySymbol": "TVSMOTOR.NS",
-    "companyName": "TVS Motor Company Limited",
-    "totalDividend": null,
-    "stockPrice": 2433.5,
-    "dividendPercent": null,
+    "companySymbol": "BPCL.NS",
+    "companyName": "Bharat Petroleum Corporation Limited",
+    "totalDividend": 15.5,
+    "stockPrice": 278.47,
+    "dividendPercent": "5.57",
     "marketCapCategory": "Large Cap",
-    "sector": "2/3 Wheelers"
+    "sector": "Refineries & Marketing"
   },
   {
-    "companySymbol": "ADANIPOWER.NS",
-    "companyName": "Adani Power Limited",
-    "totalDividend": null,
-    "stockPrice": 528.3,
-    "dividendPercent": null,
+    "companySymbol": "VBL.NS",
+    "companyName": "Varun Beverages Limited",
+    "totalDividend": 2.5,
+    "stockPrice": 539.65,
+    "dividendPercent": "0.46",
     "marketCapCategory": "Large Cap",
-    "sector": "Integrated Power Utilities"
-  },
-  {
-    "companySymbol": "JSWENERGY.NS",
-    "companyName": "JSW Energy Limited",
-    "totalDividend": 2,
-    "stockPrice": 560.7,
-    "dividendPercent": "0.36",
-    "marketCapCategory": "Mid Cap",
-    "sector": "Power Generation"
-  },
-  {
-    "companySymbol": "LTIM.NS",
-    "companyName": "LTIMindtree Limited",
-    "totalDividend": 65,
-    "stockPrice": 4603.85,
-    "dividendPercent": "1.41",
-    "marketCapCategory": "Large Cap",
-    "sector": "Computers - Software & Consulting"
-  },
-  {
-    "companySymbol": "ABB.NS",
-    "companyName": "ABB India Limited",
-    "totalDividend": 34.46,
-    "stockPrice": 5565.25,
-    "dividendPercent": "0.62",
-    "marketCapCategory": "Mid Cap",
-    "sector": "Heavy Electrical Equipment"
+    "sector": "Other Beverages"
   },
   {
     "companySymbol": "HAL.NS",
     "companyName": "Hindustan Aeronautics Limited",
     "totalDividend": 38,
-    "stockPrice": 4098.95,
-    "dividendPercent": "0.93",
+    "stockPrice": 4177.45,
+    "dividendPercent": "0.91",
     "marketCapCategory": "Large Cap",
     "sector": "Aerospace & Defense"
   },
   {
-    "companySymbol": "LICI.NS",
-    "companyName": "Life Insurance Corporation Of India",
-    "totalDividend": 6,
-    "stockPrice": 805.3,
-    "dividendPercent": "0.75",
-    "marketCapCategory": "Mid Cap",
-    "sector": "Life Insurance"
-  },
-  {
-    "companySymbol": "VEDL.NS",
-    "companyName": "Vedanta Limited",
-    "totalDividend": 43.5,
-    "stockPrice": 475.35,
-    "dividendPercent": "9.15",
+    "companySymbol": "HAVELLS.NS",
+    "companyName": "Havells India Limited",
+    "totalDividend": 10,
+    "stockPrice": 1528.9,
+    "dividendPercent": "0.65",
     "marketCapCategory": "Large Cap",
-    "sector": "Diversified Metals"
-  },
-  {
-    "companySymbol": "INDIGO.NS",
-    "companyName": "InterGlobe Aviation Limited",
-    "totalDividend": null,
-    "stockPrice": 4991.4,
-    "dividendPercent": null,
-    "marketCapCategory": "Large Cap",
-    "sector": "Airline"
+    "sector": "Consumer Electronics"
   },
   {
     "companySymbol": "GAIL.NS",
     "companyName": "GAIL (India) Limited",
     "totalDividend": 6.5,
-    "stockPrice": 182.66,
-    "dividendPercent": "3.56",
+    "stockPrice": 183.04,
+    "dividendPercent": "3.55",
     "marketCapCategory": "Large Cap",
     "sector": "Gas Transmission/Marketing"
   },
   {
-    "companySymbol": "AMBUJACEM.NS",
-    "companyName": "Ambuja Cements Limited",
-    "totalDividend": 2,
-    "stockPrice": 516,
-    "dividendPercent": "0.39",
+    "companySymbol": "DMART.NS",
+    "companyName": "Avenue Supermarts Limited",
+    "totalDividend": null,
+    "stockPrice": 4083.2,
+    "dividendPercent": null,
     "marketCapCategory": "Large Cap",
-    "sector": "Cement & Cement Products"
+    "sector": "Diversified Retail"
   },
   {
-    "companySymbol": "ZYDUSLIFE.NS",
-    "companyName": "Zydus Lifesciences Limited",
-    "totalDividend": 3,
-    "stockPrice": 928.95,
-    "dividendPercent": "0.32",
+    "companySymbol": "BAJAJHLDNG.NS",
+    "companyName": "Bajaj Holdings & Investment Limited",
+    "totalDividend": 86,
+    "stockPrice": 12473.05,
+    "dividendPercent": "0.69",
+    "marketCapCategory": "Large Cap",
+    "sector": "Holding Company"
+  },
+  {
+    "companySymbol": "CGPOWER.NS",
+    "companyName": "CG Power and Industrial Solutions Limited",
+    "totalDividend": 1.3,
+    "stockPrice": 638.5,
+    "dividendPercent": "0.20",
+    "marketCapCategory": "Large Cap",
+    "sector": "Heavy Electrical Equipment"
+  },
+  {
+    "companySymbol": "ABB.NS",
+    "companyName": "ABB India Limited",
+    "totalDividend": 34.46,
+    "stockPrice": 5546.25,
+    "dividendPercent": "0.62",
+    "marketCapCategory": "Large Cap",
+    "sector": "Heavy Electrical Equipment"
+  },
+  {
+    "companySymbol": "IRFC.NS",
+    "companyName": "Indian Railway Finance Corporation Limited",
+    "totalDividend": 2.3,
+    "stockPrice": 124.42,
+    "dividendPercent": "1.85",
+    "marketCapCategory": "Large Cap",
+    "sector": "Financial Institution"
+  },
+  {
+    "companySymbol": "LICI.NS",
+    "companyName": "Life Insurance Corporation Of India",
+    "totalDividend": 6,
+    "stockPrice": 799.4,
+    "dividendPercent": "0.75",
     "marketCapCategory": "Mid Cap",
-    "sector": "Pharmaceuticals"
+    "sector": "Life Insurance"
   },
   {
-    "companySymbol": "DIVISLAB.NS",
-    "companyName": "Divi's Laboratories Limited",
-    "totalDividend": 30,
-    "stockPrice": 5889.95,
-    "dividendPercent": "0.51",
+    "companySymbol": "MOTHERSON.NS",
+    "companyName": "Samvardhana Motherson International Limited",
+    "totalDividend": 1.3,
+    "stockPrice": 130.96,
+    "dividendPercent": "0.99",
+    "marketCapCategory": "Large Cap",
+    "sector": "Auto Components & Equipments"
+  },
+  {
+    "companySymbol": "ADANIENSOL.NS",
+    "companyName": "Adani Energy Solutions Limited",
+    "totalDividend": null,
+    "stockPrice": 872,
+    "dividendPercent": null,
+    "marketCapCategory": "Large Cap",
+    "sector": "Power Distribution"
+  },
+  {
+    "companySymbol": "UNITDSPR.NS",
+    "companyName": "United Spirits Limited",
+    "totalDividend": 5,
+    "stockPrice": 1401.3,
+    "dividendPercent": "0.36",
+    "marketCapCategory": "Large Cap",
+    "sector": "Breweries & Distilleries"
+  },
+  {
+    "companySymbol": "TORNTPHARM.NS",
+    "companyName": "Torrent Pharmaceuticals Limited",
+    "totalDividend": 32,
+    "stockPrice": 3227.95,
+    "dividendPercent": "0.99",
     "marketCapCategory": "Large Cap",
     "sector": "Pharmaceuticals"
   },
@@ -723,180 +615,288 @@
     "companySymbol": "CHOLAFIN.NS",
     "companyName": "Cholamandalam Investment and Finance Company Limited",
     "totalDividend": 2,
-    "stockPrice": 1550,
+    "stockPrice": 1519.95,
     "dividendPercent": "0.13",
     "marketCapCategory": "Large Cap",
     "sector": "Non Banking Financial Company (NBFC)"
   },
   {
-    "companySymbol": "NHPC.NS",
-    "companyName": "NHPC Limited",
-    "totalDividend": 1.9,
-    "stockPrice": 83.67,
-    "dividendPercent": "2.27",
-    "marketCapCategory": "Mid Cap",
-    "sector": "Power Generation"
-  },
-  {
-    "companySymbol": "PIDILITIND.NS",
-    "companyName": "Pidilite Industries Limited",
-    "totalDividend": 16,
-    "stockPrice": 2818.6,
-    "dividendPercent": "0.57",
-    "marketCapCategory": "Large Cap",
-    "sector": "Specialty Chemicals"
-  },
-  {
-    "companySymbol": "BAJAJHLDNG.NS",
-    "companyName": "Bajaj Holdings & Investment Limited",
-    "totalDividend": 86,
-    "stockPrice": 12440,
-    "dividendPercent": "0.69",
-    "marketCapCategory": "Large Cap",
-    "sector": "Holding Company"
-  },
-  {
-    "companySymbol": "JIOFIN.NS",
-    "companyName": "Jio Financial Services Limited",
+    "companySymbol": "INDIGO.NS",
+    "companyName": "InterGlobe Aviation Limited",
     "totalDividend": null,
-    "stockPrice": 233.35,
+    "stockPrice": 5115.35,
     "dividendPercent": null,
     "marketCapCategory": "Large Cap",
-    "sector": "Investment Company"
-  },
-  {
-    "companySymbol": "IRCTC.NS",
-    "companyName": "Indian Railway Catering And Tourism Corporation Limited",
-    "totalDividend": 11,
-    "stockPrice": 729.25,
-    "dividendPercent": "1.51",
-    "marketCapCategory": "Mid Cap",
-    "sector": "Tour Travel Related Services"
-  },
-  {
-    "companySymbol": "GODREJCP.NS",
-    "companyName": "Godrej Consumer Products Limited",
-    "totalDividend": 25,
-    "stockPrice": 1105.2,
-    "dividendPercent": "2.26",
-    "marketCapCategory": "Large Cap",
-    "sector": "Personal Care"
-  },
-  {
-    "companySymbol": "ZOMATO.NS",
-    "companyName": "Zomato Limited",
-    "totalDividend": null,
-    "stockPrice": 223.82,
-    "dividendPercent": null,
-    "marketCapCategory": "Large Cap",
-    "sector": "E-Retail/ E-Commerce"
-  },
-  {
-    "companySymbol": "TORNTPHARM.NS",
-    "companyName": "Torrent Pharmaceuticals Limited",
-    "totalDividend": 32,
-    "stockPrice": 3235.15,
-    "dividendPercent": "0.99",
-    "marketCapCategory": "Large Cap",
-    "sector": "Pharmaceuticals"
-  },
-  {
-    "companySymbol": "TATAPOWER.NS",
-    "companyName": "Tata Power Company Limited",
-    "totalDividend": 2,
-    "stockPrice": 382.55,
-    "dividendPercent": "0.52",
-    "marketCapCategory": "Large Cap",
-    "sector": "Integrated Power Utilities"
-  },
-  {
-    "companySymbol": "DLF.NS",
-    "companyName": "DLF Limited",
-    "totalDividend": 5,
-    "stockPrice": 712.5,
-    "dividendPercent": "0.70",
-    "marketCapCategory": "Large Cap",
-    "sector": "Residential Commercial Projects"
-  },
-  {
-    "companySymbol": "ICICIPRULI.NS",
-    "companyName": "ICICI Prudential Life Insurance Company Limited",
-    "totalDividend": 0.6,
-    "stockPrice": 596.75,
-    "dividendPercent": "0.10",
-    "marketCapCategory": "Mid Cap",
-    "sector": "Life Insurance"
+    "sector": "Airline"
   },
   {
     "companySymbol": "BOSCHLTD.NS",
     "companyName": "Bosch Limited",
     "totalDividend": 170,
-    "stockPrice": 28216.3,
+    "stockPrice": 28358.45,
     "dividendPercent": "0.60",
-    "marketCapCategory": "Mid Cap",
+    "marketCapCategory": "Large Cap",
     "sector": "Auto Components & Equipments"
   },
   {
-    "companySymbol": "IRFC.NS",
-    "companyName": "Indian Railway Finance Corporation Limited",
-    "totalDividend": 2.3,
-    "stockPrice": 132.96,
-    "dividendPercent": "1.73",
-    "marketCapCategory": "Mid Cap",
-    "sector": "Financial Institution"
+    "companySymbol": "PNB.NS",
+    "companyName": "Punjab National Bank",
+    "totalDividend": 1.5,
+    "stockPrice": 96.13,
+    "dividendPercent": "1.56",
+    "marketCapCategory": "Large Cap",
+    "sector": "Public Sector Bank"
+  },
+  {
+    "companySymbol": "CANBK.NS",
+    "companyName": "Canara Bank",
+    "totalDividend": 3.22,
+    "stockPrice": 89,
+    "dividendPercent": "3.62",
+    "marketCapCategory": "Large Cap",
+    "sector": "Public Sector Bank"
+  },
+  {
+    "companySymbol": "ZYDUSLIFE.NS",
+    "companyName": "Zydus Lifesciences Limited",
+    "totalDividend": 3,
+    "stockPrice": 886.4,
+    "dividendPercent": "0.34",
+    "marketCapCategory": "Large Cap",
+    "sector": "Pharmaceuticals"
+  },
+  {
+    "companySymbol": "ICICIGI.NS",
+    "companyName": "ICICI Lombard General Insurance Company Limited",
+    "totalDividend": 11.5,
+    "stockPrice": 1792.85,
+    "dividendPercent": "0.64",
+    "marketCapCategory": "Large Cap",
+    "sector": "General Insurance"
+  },
+  {
+    "companySymbol": "INDHOTEL.NS",
+    "companyName": "The Indian Hotels Company Limited",
+    "totalDividend": 1.75,
+    "stockPrice": 787.55,
+    "dividendPercent": "0.22",
+    "marketCapCategory": "Large Cap",
+    "sector": "Hotels & Resorts"
   },
   {
     "companySymbol": "JINDALSTEL.NS",
     "companyName": "Jindal Steel & Power Limited",
     "totalDividend": 2,
-    "stockPrice": 924.65,
+    "stockPrice": 912.3,
     "dividendPercent": "0.22",
     "marketCapCategory": "Large Cap",
     "sector": "Iron & Steel"
   },
   {
-    "companySymbol": "HAVELLS.NS",
-    "companyName": "Havells India Limited",
-    "totalDividend": 10,
-    "stockPrice": 1484.95,
-    "dividendPercent": "0.67",
+    "companySymbol": "BANKBARODA.NS",
+    "companyName": "Bank of Baroda",
+    "totalDividend": 7.6,
+    "stockPrice": 228.53,
+    "dividendPercent": "3.33",
     "marketCapCategory": "Large Cap",
-    "sector": "Consumer Electronics"
+    "sector": "Public Sector Bank"
+  },
+  {
+    "companySymbol": "AMBUJACEM.NS",
+    "companyName": "Ambuja Cements Limited",
+    "totalDividend": 2,
+    "stockPrice": 538.35,
+    "dividendPercent": "0.37",
+    "marketCapCategory": "Large Cap",
+    "sector": "Cement & Cement Products"
+  },
+  {
+    "companySymbol": "PIDILITIND.NS",
+    "companyName": "Pidilite Industries Limited",
+    "totalDividend": 16,
+    "stockPrice": 2849.3,
+    "dividendPercent": "0.56",
+    "marketCapCategory": "Large Cap",
+    "sector": "Specialty Chemicals"
+  },
+  {
+    "companySymbol": "SIEMENS.NS",
+    "companyName": "Siemens Limited",
+    "totalDividend": 12,
+    "stockPrice": 5275.35,
+    "dividendPercent": "0.23",
+    "marketCapCategory": "Large Cap",
+    "sector": "Heavy Electrical Equipment"
   },
   {
     "companySymbol": "NAUKRI.NS",
     "companyName": "Info Edge (India) Limited",
     "totalDividend": 24,
-    "stockPrice": 7122.05,
-    "dividendPercent": "0.34",
+    "stockPrice": 7181.4,
+    "dividendPercent": "0.33",
     "marketCapCategory": "Large Cap",
     "sector": "Internet & Catalogue Retail"
+  },
+  {
+    "companySymbol": "DABUR.NS",
+    "companyName": "Dabur India Limited",
+    "totalDividend": 5.5,
+    "stockPrice": 506.5,
+    "dividendPercent": "1.09",
+    "marketCapCategory": "Large Cap",
+    "sector": "Personal Care"
+  },
+  {
+    "companySymbol": "DLF.NS",
+    "companyName": "DLF Limited",
+    "totalDividend": 5,
+    "stockPrice": 680.5,
+    "dividendPercent": "0.73",
+    "marketCapCategory": "Large Cap",
+    "sector": "Residential Commercial Projects"
+  },
+  {
+    "companySymbol": "ADANIGREEN.NS",
+    "companyName": "Adani Green Energy Limited",
+    "totalDividend": null,
+    "stockPrice": 948.65,
+    "dividendPercent": null,
+    "marketCapCategory": "Large Cap",
+    "sector": "Power Generation"
+  },
+  {
+    "companySymbol": "RECLTD.NS",
+    "companyName": "REC Limited",
+    "totalDividend": 24.900000000000002,
+    "stockPrice": 429.2,
+    "dividendPercent": "5.80",
+    "marketCapCategory": "Large Cap",
+    "sector": "Financial Institution"
   },
   {
     "companySymbol": "PFC.NS",
     "companyName": "Power Finance Corporation Limited",
     "totalDividend": 16.25,
-    "stockPrice": 422.35,
-    "dividendPercent": "3.85",
+    "stockPrice": 414.25,
+    "dividendPercent": "3.92",
     "marketCapCategory": "Large Cap",
     "sector": "Financial Institution"
+  },
+  {
+    "companySymbol": "DIVISLAB.NS",
+    "companyName": "Divi's Laboratories Limited",
+    "totalDividend": 30,
+    "stockPrice": 5775.45,
+    "dividendPercent": "0.52",
+    "marketCapCategory": "Large Cap",
+    "sector": "Pharmaceuticals"
+  },
+  {
+    "companySymbol": "TVSMOTOR.NS",
+    "companyName": "TVS Motor Company Limited",
+    "totalDividend": 10,
+    "stockPrice": 2419.85,
+    "dividendPercent": "0.41",
+    "marketCapCategory": "Large Cap",
+    "sector": "2/3 Wheelers"
+  },
+  {
+    "companySymbol": "VEDL.NS",
+    "companyName": "Vedanta Limited",
+    "totalDividend": 43.5,
+    "stockPrice": 463.4,
+    "dividendPercent": "9.39",
+    "marketCapCategory": "Large Cap",
+    "sector": "Diversified Metals"
+  },
+  {
+    "companySymbol": "IOC.NS",
+    "companyName": "Indian Oil Corporation Limited",
+    "totalDividend": 7,
+    "stockPrice": 127.7,
+    "dividendPercent": "5.48",
+    "marketCapCategory": "Large Cap",
+    "sector": "Refineries & Marketing"
+  },
+  {
+    "companySymbol": "BAJAJHFL.NS",
+    "companyName": "Bajaj Housing Finance Limited",
+    "totalDividend": null,
+    "stockPrice": 123.29,
+    "dividendPercent": null,
+    "marketCapCategory": "Mid Cap",
+    "sector": "Housing Finance Company"
+  },
+  {
+    "companySymbol": "JSWENERGY.NS",
+    "companyName": "JSW Energy Limited",
+    "totalDividend": 2,
+    "stockPrice": 537.9,
+    "dividendPercent": "0.37",
+    "marketCapCategory": "Large Cap",
+    "sector": "Power Generation"
+  },
+  {
+    "companySymbol": "TATAPOWER.NS",
+    "companyName": "Tata Power Company Limited",
+    "totalDividend": 2,
+    "stockPrice": 375.4,
+    "dividendPercent": "0.53",
+    "marketCapCategory": "Large Cap",
+    "sector": "Integrated Power Utilities"
+  },
+  {
+    "companySymbol": "SWIGGY.NS",
+    "companyName": "Swiggy Limited",
+    "totalDividend": null,
+    "stockPrice": 330.2,
+    "dividendPercent": null,
+    "marketCapCategory": "Mid Cap",
+    "sector": "E-Retail/ E-Commerce"
+  },
+  {
+    "companySymbol": "ADANIPOWER.NS",
+    "companyName": "Adani Power Limited",
+    "totalDividend": null,
+    "stockPrice": 509.3,
+    "dividendPercent": null,
+    "marketCapCategory": "Large Cap",
+    "sector": "Integrated Power Utilities"
+  },
+  {
+    "companySymbol": "HYUNDAI.NS",
+    "companyName": "Hyundai Motor India Limited",
+    "totalDividend": null,
+    "stockPrice": 1707.65,
+    "dividendPercent": null,
+    "marketCapCategory": "Large Cap",
+    "sector": "Passenger Cars & Utility Vehicles"
   },
   {
     "companySymbol": "LODHA.NS",
     "companyName": "Macrotech Developers Limited",
     "totalDividend": 2.25,
-    "stockPrice": 1236.45,
-    "dividendPercent": "0.18",
+    "stockPrice": 1195.8,
+    "dividendPercent": "0.19",
     "marketCapCategory": "Large Cap",
     "sector": "Residential Commercial Projects"
   },
   {
-    "companySymbol": "MOTHERSON.NS",
-    "companyName": "Samvardhana Motherson International Limited",
-    "totalDividend": 0.8,
-    "stockPrice": 134.08,
-    "dividendPercent": "0.60",
+    "companySymbol": "LTIM.NS",
+    "companyName": "LTIMindtree Limited",
+    "totalDividend": 65,
+    "stockPrice": 4491.35,
+    "dividendPercent": "1.45",
     "marketCapCategory": "Large Cap",
-    "sector": "Auto Components & Equipments"
+    "sector": "Computers - Software & Consulting"
+  },
+  {
+    "companySymbol": "ICICIPRULI.NS",
+    "companyName": "ICICI Prudential Life Insurance Company Limited",
+    "totalDividend": 0.6,
+    "stockPrice": 564.35,
+    "dividendPercent": "0.11",
+    "marketCapCategory": "Large Cap",
+    "sector": "Life Insurance"
   }
 ]
