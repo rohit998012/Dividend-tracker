@@ -6,7 +6,7 @@ A web-based dividend tracker that fetches stock dividend data from NSE India and
 
 Ensure Node.js is installed on your system before running this project.
 
-🏗️ Project Structure
+🏗️ Project Structure :
 
 This project consists of:
 
@@ -14,7 +14,7 @@ Backend (handles data fetching and API requests)
 
 Frontend (React + Vite for UI)
 
-🛠️ Setup & Running
+🛠️ Setup & Running :
 
 🔹 Running the Backend
 
@@ -30,7 +30,7 @@ Start the backend server:
 
 node server.js
 
-🔹 Running the Frontend
+🔹 Running the Frontend :
 
 Navigate to the frontend directory (if applicable).
 
