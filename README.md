@@ -1,6 +1,6 @@
 📈 Dividend Tracker
 
-A web-based dividend tracker that fetches stock dividend data from NSE India and Yahoo Finance. Users can view dividend information on the homepage and, upon signing in, create custom portfolios to estimate their potential 1-year dividend returns.
+A web-based dividend tracker that fetches stock dividend data for the Nifty 100 stocks from NSE India and Yahoo Finance. Users can view dividend information on the homepage and, upon signing in, create custom portfolios to estimate their potential 1-year dividend returns.
 
 🚀 Prerequisites :
 
