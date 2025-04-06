@@ -125,7 +125,8 @@ const userDocRef = doc(db, "users", userId);
           <LoginHeader user={props.user} onLoginClick={() => props.setShowModal(true)} onLogoutClick={props.handleLogout} />
           <LoginModal showModal={props.showModal} onClose={() => props.setShowModal(false)} />
      
-    <div className="container mt-4">
+          <div className="container mt-5 pt-4">
+            
       <div className="mb-3">
         <ul className="nav nav-pills justify-content-center" style={{ fontSize: "1.2rem" }}>
           {portfolios.map((portfolio, index) => (

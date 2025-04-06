@@ -36,3 +36,16 @@ body {
 }
 
 /* Stock table styling */
+/* Add this CSS to your stylesheets or create a style tag in your component */
+.nav-links a {
+  text-decoration: none; /* Removes the underline by default */
+  color: inherit; /* Keeps the text color consistent */
+  transition: text-decoration 0.3s ease; /* Smooth transition for the underline */
+}
+
+.nav-links a:hover {
+  text-decoration: underline; /* Adds underline only on hover */
+}
+.nav-link:hover {
+  text-decoration: underline;
+}

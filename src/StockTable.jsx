@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from "react";
-import { FaSortUp, FaSortDown } from "react-icons/fa";
+import { FaSortUp, FaSortDown, FaSort } from "react-icons/fa";
 
 export default function StockTable({ stocks }) {
   const [searchQuery, setSearchQuery] = useState("");
@@ -49,6 +49,14 @@ export default function StockTable({ stocks }) {
   const endPage = Math.min(startPage + pageSetSize - 1, totalPages);
   const pageNumbers = Array.from({ length: endPage - startPage + 1 }, (_, i) => startPage + i);
 
+  // Function to render sort icon
+  const renderSortIcon = (column) => {
+    if (sortColumn === column) {
+      return sortOrder === "asc" ? <FaSortUp /> : <FaSortDown />;
+    }
+    return <FaSort style={{ color: "#aaa" }} />;
+  };
+
   return (
     <div className="container-fluid mt-4">
       {/* Filters */}
@@ -76,33 +84,42 @@ export default function StockTable({ stocks }) {
         </select>
       </div>
 
-      {/* Table */}
-      <table className="table table-bordered">
-        <thead className="table-primary">
-          <tr>
-            <th>Name</th>
-            <th onClick={() => handleSort("stockPrice")} style={{ cursor: "pointer" }}>
-              Stock Price {sortColumn === "stockPrice" ? (sortOrder === "asc" ? <FaSortUp /> : <FaSortDown />) : null}
-            </th>
-            <th>Sector</th>
-            <th>Market Cap</th>
-            <th onClick={() => handleSort("dividendPercent")} style={{ cursor: "pointer" }}>
-              Dividend % (1 Year) {sortColumn === "dividendPercent" ? (sortOrder === "asc" ? <FaSortUp /> : <FaSortDown />) : null}
-            </th>
-          </tr>
-        </thead>
-        <tbody>
-          {paginatedStocks.map((stock, index) => (
-            <tr key={index}>
-              <td>{stock.companyName}</td>
-              <td>₹ {stock.stockPrice}</td>
-              <td>{stock.sector}</td>
-              <td>{stock.marketCapCategory}</td>
-              <td>{stock.dividendPercent == null ? 0 : stock.dividendPercent}</td>
+      {/* Table with fixed column widths */}
+      <div className="table-responsive">
+        <table className="table table-bordered">
+          <colgroup>
+            <col style={{ width: "30%" }} /> {/* Name column */}
+            <col style={{ width: "15%" }} /> {/* Stock Price column */}
+            <col style={{ width: "25%" }} /> {/* Sector column */}
+            <col style={{ width: "15%" }} /> {/* Market Cap column */}
+            <col style={{ width: "15%" }} /> {/* Dividend % column */}
+          </colgroup>
+          <thead className="table-primary">
+            <tr>
+              <th className="text-nowrap">Name</th>
+              <th className="text-nowrap" onClick={() => handleSort("stockPrice")} style={{ cursor: "pointer" }}>
+                Stock Price {renderSortIcon("stockPrice")}
+              </th>
+              <th className="text-nowrap">Sector</th>
+              <th className="text-nowrap">Market Cap</th>
+              <th className="text-nowrap" onClick={() => handleSort("dividendPercent")} style={{ cursor: "pointer" }}>
+                Dividend % (1 Year) {renderSortIcon("dividendPercent")}
+              </th>
             </tr>
-          ))}
-        </tbody>
-      </table>
+          </thead>
+          <tbody>
+            {paginatedStocks.map((stock, index) => (
+              <tr key={index}>
+                <td className="text-truncate" style={{ maxWidth: "0" }}>{stock.companyName}</td>
+                <td className="text-nowrap">₹ {stock.stockPrice}</td>
+                <td className="text-truncate" style={{ maxWidth: "0" }}>{stock.sector}</td>
+                <td className="text-nowrap">{stock.marketCapCategory}</td>
+                <td className="text-nowrap">{stock.dividendPercent == null ? 0 : stock.dividendPercent}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
 
       {/* Pagination */}
       <div className="d-flex justify-content-end">

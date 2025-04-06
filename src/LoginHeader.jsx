@@ -11,7 +11,7 @@ export default function LoginHeader({ user, onLoginClick, onLogoutClick }) {
           alt="project-logo"
         />
         {user ? (
-          <div className="d-flex justify-content-between align-items-center nav-links gap-4">
+          <div className="d-flex justify-content-between align-items-center nav-links gap-4 nav-links">
             <h4>
               <Link to="/">Home</Link>
             </h4>
