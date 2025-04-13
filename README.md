@@ -5,31 +5,22 @@ A web-based dividend tracker that fetches stock dividend data for the Nifty 100 
 Ensure Node.js is installed on your system before running this project.
 
 🏗️ Project Structure : 
-
 This project consists of:
 
 Backend: Handles data fetching and API requests
-
 Frontend: Built with React + Vite for the user interface
 
-🛠️ Setup & Running
 🔹 Running the Backend : 
-
 Navigate to the backend directory:
 
 cd nse-backend
-Run the data fetching script:
-
 node script.js
-Start the backend server:
-
 node server.js
-🔹 Running the Frontend : 
-Navigate to the frontend directory:
 
+🔹 Navigate to the frontend directory:
 cd frontend
-Install dependencies:
 
+Install dependencies:
 npm install
 Set up Firebase Configuration
 To enable authentication and portfolio features:
