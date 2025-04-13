@@ -22,6 +22,7 @@ cd frontend
 
 Install dependencies:
 npm install
+
 Set up Firebase Configuration
 To enable authentication and portfolio features:
 
